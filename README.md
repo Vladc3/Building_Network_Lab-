@@ -51,6 +51,8 @@ secure-enterprise-lab/
 ├── docs/                      # Documentation
 │   │     
 │   ├── topology.png            # Network diagram
+│   │   
+│   ├── topology.md             # Network legend
 │   │     
 │   └── network-plan.md         # VLANs, IP ranges, DNS, AD layout
 │   
