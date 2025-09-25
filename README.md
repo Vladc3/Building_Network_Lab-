@@ -24,11 +24,6 @@ The project serves as a personal training lab for the role of a **Network Securi
 ## 🛠️ Technologies Used
 - **Proxmox VE** – virtualization platform  
 - **pfSense** – firewall, VPN, IDS/IPS, VLAN routing  
-- **Windows Server 2022** – Active Directory, DNS, DHCP  
-- **Windows 10/11 Client** – joined to the domain  
-- **Ubuntu Server** – web server, SSH server  
-- **Ubuntu Desktop / Kali Linux** – clients and attack stations  
-- **Wazuh** – SIEM and log monitoring  
 
 ---
 
