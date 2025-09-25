@@ -23,15 +23,12 @@ The project serves as a personal training lab for the role of a **Network Securi
 
 ## 🛠️ Technologies Used
 - **Proxmox VE** – virtualization platform  
-- **pfSense** – firewall, VPN, IDS/IPS, VLAN routing  
+- **OPNsense** – firewall, VPN, IDS/IPS, VLAN routing  
 
 ---
 
 ## 🗺️ Network Topology
-- **VLAN10 – Management** (infrastructure management, admin PC)  
-- **VLAN20 – Users** (user workstations, Windows clients)  
-- **VLAN30 – Servers** (AD/DNS/DHCP, web server, SIEM)  
-- **WAN** – Internet (via pfSense)  
+
 
 📌 *Topology diagram is stored in `/docs/topology-diagram.png`.*  
 
